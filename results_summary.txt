@@ -1,0 +1,4 @@
+Count of static SQL payloads to which the App's login field is vulnerable:  41 out of Total:  41 Count of dynamic SQL payloads to which the App's login field is vulnerable:  161  out of Total:  300 
+
+Count of static SQL payloads to which the App's filter field is vulnerable:  6  out of Total:  12 Count of dynamic SQL payloads to which the App's filter field is vulnerable:  161  out of Total:  300 
+Count of static XSS payloads to which the App's Comment field is vulnerable:  107  out of Total:  107 Count of dynamic XSS payloads to which the App's Comment field is vulnerable:  321  out of Total:  321 
